@@ -1,7 +1,3 @@
-Here's a polished README template for your ESP8266 Clock project to make it visually appealing and informative for GitHub:
-
----
-
 # ESP8266 LED Matrix Clock 🕰️
 
 An animated LED matrix clock powered by the ESP8266! This project uses an ESP8266 module to display real-time data, including date and time, on a MAX7219 LED matrix. The clock syncs with the internet to fetch the accurate time and adjusts the brightness based on different times of the day.
