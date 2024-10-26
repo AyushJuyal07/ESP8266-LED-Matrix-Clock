@@ -36,7 +36,7 @@ An animated LED matrix clock powered by the ESP8266! This project uses an ESP826
 
 1. **Clone this repository**: 
    ```bash
-   git clone https://github.com/yourusername/ESP8266_LED_Clock.git
+   git clone https://github.com/AyushJuyal07/ESP8266-LED-Matrix-Clock.git
    ```
 
 2. **Install Dependencies**: Ensure the necessary libraries (`ESP8266WiFi.h` and `max7219.h`) are installed in your Arduino IDE.
